@@ -1,3 +1,5 @@
+'use client';
+
 import ProductTile from '@/components/catalog/ProductTile';
 import Footer from '@/components/common/Footer';
 import Header from '@/components/common/Header';
